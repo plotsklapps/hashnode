@@ -54,6 +54,8 @@ Now that we have set up the pubspec.yaml file with our dependencies for Firebase
 
 (This will give (deprecation) warnings and stuff, but don't worry for now!)
 
+Now enter:
+
 ```dart pub global activate flutterfire_cli```
 
 The result for me is:
